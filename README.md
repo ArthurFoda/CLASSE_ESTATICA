@@ -14,3 +14,4 @@ gramasParaLibras(double gramas): converte uma massa em gramas para libras.
 Após criar a classe, implemente uma classe principal (Main) que chame cada um dos métodos da classe ConversorUnidades e exiba o resultado no console.
 
 ✒️ Autores Arthur dos Santos Soares - Trabalho Inicial - Atividade individual - Lista de Exercícios AC2 - CLASSE ESTÁTICA
+![] 
